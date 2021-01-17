@@ -1,1 +1,1 @@
-import load_text
+import app.ipynb
